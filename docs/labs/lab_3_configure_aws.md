@@ -35,6 +35,10 @@ aws iam add-user-to-group --user-name kops --group-name kops
 aws iam create-access-key --user-name kops
 ```
 
+The following Asciicast show the previous commands in action.
+
+<script type="text/javascript" src="https://asciinema.org/a/kJtomWQSpcuhZ5OqAkQPGm50k.js" id="asciicast-kJtomWQSpcuhZ5OqAkQPGm50k" async></script>
+
 Verify that the `kops` user is created.
 
 ```
@@ -71,7 +75,7 @@ aws_secret_access_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 Create an Amazon S3 bucket for your Kubernetes state store. 
 
-**NOTES**<br/>
+**Notes**<br/>
 * There is currently an [issue](https://github.com/aws/aws-sdk-js/issues/475) that requires the state store to be created in `us-east-1`.
 * Replace `<kubernauts-io>` with your own domain name.
 

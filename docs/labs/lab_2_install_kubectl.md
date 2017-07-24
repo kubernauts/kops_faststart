@@ -35,6 +35,9 @@ $ kubectl version
 Client Version: version.Info{Major:"1", Minor:"7", GitVersion:"v1.7.1",.. ", GoVersion:"go1.8.3"
 ```
 
+**Note**<br>
+As the Kubernetes API server is not yet deployed the `kubectl version` command will take a while to timeout before showing you the version.
+
 To further configure `kubectl` please refer to the great documentation on the [kubernetes.io](https://kubernetes.io/docs/tasks/tools/install-kubectl/) site.
 
 
