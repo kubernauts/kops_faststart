@@ -10,7 +10,7 @@ Note: there is a NEW exciting project “[Kubicorn](https://www.nivenly.com/kubi
 
 This guide is based on the [Kops documentation on Github](https://github.com/kubernetes/kops/blob/master/docs/aws.md) and inspired by [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/de/blogs/compute/kubernetes-clusters-aws-kops/) by [Arun Gupta](https://twitter.com/arungupta) and some additional help from the great docs on [kubernetes.io](https://kubernetes.io) site to help you get started very fast and possibly too fast using Kops 1.6.2 to deploy multiple Kubernetes clusters on AWS. I recommend to read the great documentation on Github and enjoy Arun’s post.
 
-This guide is the 1st part of a series and shows only the basic installation steps to deploy one or more HA K8s Clusters on AWS, in part 2 we’ll deploy some apps via [Helm Pack](https://helm.sh/) to our Kubernetes Cluster(s).
+This guide is the 1st part of a series and shows only the basic installation steps to deploy one or more HA K8s Clusters on AWS and how to deploy some existing apps via [Helm Pack](https://helm.sh/) to our Kubernetes Cluster(s).
 
 ---
 
