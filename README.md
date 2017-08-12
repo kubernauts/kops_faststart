@@ -1,6 +1,9 @@
 # Kubernauts Kops Faststart
 
 ---
+Last update: August 12th, 2017
+Author: @kubernauts
+Questions: [https://kubernauts-slack-join.herokuapp.com/](https://kubernauts-slack-join.herokuapp.com/)
 
 **Kops** (Kubernetes Operations) is currently the best way for deployment, operation, upgrade and decommissioning of Kubernetes Clusters on AWS. A huge thanks to [Kris Nova](https://twitter.com/Kris__Nova) and the Kops team for this brilliant implementation.
 
