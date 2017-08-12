@@ -5,6 +5,7 @@ Last update: August 12th, 2017
 Author: @kubernauts
 Questions: [https://kubernauts-slack-join.herokuapp.com/](https://kubernauts-slack-join.herokuapp.com/)
 
+
 **Kops** (Kubernetes Operations) is currently the best way for deployment, operation, upgrade and decommissioning of Kubernetes Clusters on AWS. A huge thanks to [Kris Nova](https://twitter.com/Kris__Nova) and the Kops team for this brilliant implementation.
 
 If you’re new to Kubernetes please refer to the fantastic [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/) and learn the basics interactively with the integrated Katacoda implementation.
