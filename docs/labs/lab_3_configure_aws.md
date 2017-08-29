@@ -79,7 +79,7 @@ Create an Amazon S3 bucket for your Kubernetes state store.
 **Note**: Replace `<kubernauts-io>` with your own domain name. You can omit the `--region` flag if it is already the default region in your AWS config.
 
 ```
-$ aws s3api create-bucket --bucket k8s-<kubernauts-io>-state-store --region eu-central-1
+$ aws s3api create-bucket --bucket k8s-<kubernauts-io>-state-store --region eu-central-1 --create-bucket-configuration LocationConstraint=eu-central-1
 ```
 
 Add versioning for this bucket to revert or recover a previous version of the cluster:
