@@ -3,6 +3,7 @@
 ---
 Last update: August 12th, 2017
 Author: @kubernauts
+
 Questions: [https://kubernauts-slack-join.herokuapp.com/](https://kubernauts-slack-join.herokuapp.com/)
 
 
