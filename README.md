@@ -4,7 +4,7 @@
 Last update: August 12th, 2017
 Author: @kubernauts
 
-Questions? Join us on [Slack](https://kubernauts-slack-join.herokuapp.com/)
+Questions? Join us on [Slack.](https://kubernauts-slack-join.herokuapp.com/)
 
 
 
